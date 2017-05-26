@@ -12,7 +12,7 @@ Paper:
 }
 ```
 
-## [DOWNLOAD](http://robotics.ethz.ch/~asl-datasets/icra_2017_change_detection/)
+## [DOWNLOAD (version 1.0)](http://robotics.ethz.ch/~asl-datasets/icra_2017_change_detection/)
 
 **Dataset Contents:**
  * For every observation:
