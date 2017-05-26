@@ -44,3 +44,6 @@ This dataset consists of 4 observations of a controlled office environment recor
 ![lounge](https://github.com/ethz-asl/change_detection_ds/blob/master/previews/lounge.png?raw=true)
 
 This is the most challenging dataset and consists of 10 hand-held recordings in an uncontrolled, challenging environment, a highly frequented meeting area/office lounge over the course of two weeks where objects are shifted on a daily basis. The observation overlap varies between approx. 50 - 100% and many dynamic objects are only partially observed.
+
+## Contact:
+marius.fehr(at)mavt.ethz.ch
